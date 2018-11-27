@@ -1,0 +1,8 @@
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\bin\Debug\netstandard1.4\Calculate.Square.Library.deps.json
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\bin\Debug\netstandard1.4\Calculate.Square.Library.dll
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\bin\Debug\netstandard1.4\Calculate.Square.Library.pdb
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\obj\Debug\netstandard1.4\Calculate.Square.Library.csproj.CoreCompileInputs.cache
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\obj\Debug\netstandard1.4\Calculate.Square.Library.AssemblyInfo.cs
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\obj\Debug\netstandard1.4\Calculate.Square.Library.dll
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\obj\Debug\netstandard1.4\Calculate.Square.Library.pdb
+C:\Users\Operator\source\repos\Library.Calculate.Square\Calculate.Square.Library\obj\Debug\netstandard1.4\Calculate.Square.Library.csprojAssemblyReference.cache
