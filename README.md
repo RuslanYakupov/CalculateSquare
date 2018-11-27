@@ -1,2 +1,2 @@
-# CalculateSquare This task #1
+# CalculateSquare Task #1 (Library.Calculate.Square)
 Напишите библиотеку для поставки внешним клиентам, которая умеет вычислять площадь круга по радиусу и треугольника по трем сторонам. 
